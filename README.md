@@ -1,4 +1,4 @@
-# UBER TRIPS DATASET 🚘
+# FAKE UBER TRIPS DATASET 🚘
 
 This repository contains two Python scripts that generate synthetic datasets for various analytical purposes. These datasets can be used for data analysis, machine learning, and other forms of analytics. The scripts leverage the Faker and Random libraries to create realistic, yet fictional data.
 
