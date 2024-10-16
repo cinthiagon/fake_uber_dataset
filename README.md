@@ -12,7 +12,7 @@ This script generates a fake dataset of Uber trips between 10 different location
 - Output Formats: CSV, XLSX.
 
 #### 2. Police Incidents Simulator:
-This script simulates police incidents occurring in one of the specified locations. It also uses the Faker and Random libraries to create plausible incident reports, including details such as the type of incident, the time it occurred, and the location.
+This script simulates police incidents occurring in one of the specified locations during a fake uber trip. Attention! It also uses the Faker and Random libraries to create plausible incident reports, including details such as the type of incident, the time it occurred, and the location.
 
 - Libraries Used: Pandas, Faker, Random
 - Output Formats: CSV, XLSX.
