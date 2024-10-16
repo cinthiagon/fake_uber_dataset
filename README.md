@@ -1,6 +1,6 @@
 # FAKE UBER TRIPS DATASET 🚘
 
-This repository contains two Python scripts that generate synthetic datasets for various analytical purposes. These datasets can be used for data analysis, machine learning, and other forms of analytics. The scripts leverage the Faker and Random libraries to create realistic, yet fictional data.
+This repository contains two Python scripts that generate synthetic datasets for various analytical purposes. These datasets can be used for data analysis, machine learning, and other forms of analytics. You can see an example [here](https://public.tableau.com/shared/HZC9N5CYS?:display_count=n&:origin=viz_share_link). Disclaimer: the scripts leverage the Faker and Random libraries to create **realistic, yet fictional** data.
 
 
 ## Scripts
@@ -20,7 +20,7 @@ This script simulates police incidents occurring in one of the specified locatio
 
 ## Clone the repository:
 
-- git clone https://github.com/your-username/your-repository.git
+- git clone [https://github.com/cinthiagon/fake_uber_dataset](https://github.com/cinthiagon/fake_uber_dataset)
 - cd your-repository 
 
 ## Install the necessary libraries:
